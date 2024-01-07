@@ -5,3 +5,4 @@
 
 # Luckys Bot
 [Einladungslink](https://discord.com/api/oauth2/authorize?client_id=1000062811768115341&permissions=8&scope=bot)
+[Support Server](https://discord.gg/pGRaZUgxtp)
